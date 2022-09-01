@@ -8,7 +8,7 @@ Esse projeto consiste em procurar gatos por suas raças, no select. Ao clicar em
 ## 📱 Layout para Celular
 <br>
 <p align='center'>
-<img width='300' height='600' src='/imgs-videos-demo/gifmobile.gif'>
+<img width='300' height='600' src='/image/screencapture-catbreeds-select-netlify-app-2022-09-01-13_29_29.png'>
 </p>
 
 ## 💻 Layout para Web
