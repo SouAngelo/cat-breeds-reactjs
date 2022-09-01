@@ -14,7 +14,7 @@ Esse projeto consiste em procurar gatos por suas raças, no select. Ao clicar em
 ## 💻 Layout para Web
 <br>
 <p align='center'>
-<img width='700' src='https://uploaddeimagens.com.br/imagens/EOd2NT8'>
+<img width='700' src='/image/2022-09-01 13-34-47.gif'>
 </p>
 
 <br>
