@@ -5,7 +5,7 @@ Entre no site: https://catbreeds-select.netlify.app
 
 
 <p>
-Esse projeto consiste em procurar gatos por suas raças, no select. Ao clicar em um nome de raça, você terá um carrosel de imagens, nome, origem, descrição, comportamento e um link do Wikipedia sobre o gato selecionado.
+Esse projeto consiste em procurar gatos por suas raças, no select. Ao clicar em um nome de raça, você terá um carrosel de imagens, nome, origem, descrição, comportamento e um link do Wikipedia sobre o gato selecionado, além de trocar as bandeiras de origem de cada país.
 </p>
 
 ## 📱 Layout para Celular
